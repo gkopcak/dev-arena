@@ -1,4 +1,4 @@
 dev-arena
 =========
 
-Development repository
+Development repository for Python-dev group
